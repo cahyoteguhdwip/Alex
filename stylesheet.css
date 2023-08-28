@@ -3,7 +3,12 @@ h1{
   color: #00FFFF;
 }
 
+h2{
+  /*gantikan warna ke #FF69B4 */
+  color: #FF69B4;
+}
+
 p {
-  /* Gantikan warna ke #ff000 */
-  color: #ff0000;
+  /* Gantikan warna ke #9ACD32 */
+  color: #9ACD32;
 }
