@@ -3,7 +3,7 @@ h1{
   color: #F0E68C;
   /* ganti bacground */
   background-color:#DC143C;
-  height:80px;
+  height:160px;
   width:500px;
 }
 
@@ -17,8 +17,6 @@ p {
   color: #006400;
 }
 
-li{
-}
-.selected{
+li.selected{
   color: #008B8B;
 }
