@@ -16,3 +16,10 @@ p {
   /* Gantikan warna ke #006400*/
   color: #006400;
 }
+
+li{
+  color: #A9A9A9;
+}
+ .selected{
+    color: #008B8B;
+}
