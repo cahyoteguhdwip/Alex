@@ -14,7 +14,7 @@ h1{
   /* ganti bacground */
   background-color:#DC143C;
   height:60px;
-  width:380px;
+  width:450px;
 }
 
 h2{
@@ -28,7 +28,7 @@ p {
 }
 
 ul{
-  text-align: right;
+  margin-right: 10px;
 }
 
 li.selected{
