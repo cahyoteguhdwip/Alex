@@ -21,10 +21,10 @@ li.selected{
   color: #008B8B;
 }
 
-div class="header"{
+.header{
   background-color: #8B0000;
 }
 
-div class="main"{
+.main{
   background-color: #FF8C00;
 }
