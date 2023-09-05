@@ -14,7 +14,7 @@ h1{
   /* ganti bacground */
   background-color:#DC143C;
   height:60px;
-  width:450px;
+  width:480px;
 }
 
 h2{
@@ -25,10 +25,6 @@ h2{
 p {
   /* Gantikan warna ke #006400*/
   color: #006400;
-}
-
-ul{
-  margin-right: 10px;
 }
 
 li.selected{
