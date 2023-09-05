@@ -1,3 +1,13 @@
+.header {
+  background-color: #8B0000;
+}
+.main {
+  background-color: #FF8C00;
+}
+.footer {
+  background-color: #0000ff;
+}
+
 h1{
   /* Gantikan warna ke #F0E68C */
   color: #F0E68C;
@@ -19,13 +29,4 @@ p {
 
 li.selected{
   color: #008B8B;
-}
-
-body{
-.header{
-  background-color: #8B0000;
-}
-.main{
-  background-color: #FF8C00;
-}
 }
