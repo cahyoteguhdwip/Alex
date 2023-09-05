@@ -21,10 +21,11 @@ li.selected{
   color: #008B8B;
 }
 
+body{
 .header{
   background-color: #8B0000;
 }
-
 .main{
   background-color: #FF8C00;
+}
 }
