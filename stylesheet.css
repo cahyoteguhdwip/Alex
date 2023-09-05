@@ -27,6 +27,13 @@ p {
   color: #006400;
 }
 
+ul{
+  list-style: none;
+  padding:0;
+  text-align: right;
+}
+
 li.selected{
   color: #008B8B;
+  margin-left: 20px;
 }
